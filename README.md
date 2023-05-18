@@ -15,4 +15,4 @@ Twitter clone utilizing the following stack:
 These will be tackled sequentially and built to allow seamless additions in the future.
 ---
 ### Database structure
-![DB Structure](blob:https://imgur.com/5069c373-5bde-42de-baef-fd17e9b4011a)
+![DB Structure](https://i.imgur.com/70ZARd3.png)
